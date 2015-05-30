@@ -1,19 +1,15 @@
 ---
 layout: page
-title: About Pixyll
+title: About Datamachine
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Datamachine is a group of coders just doing what they love.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Our current project in a [plugin driven chat bot for Telegram](https://github.com/datamachine/telegram-pybot)
 
-Thanks to the following:
+Our core developers:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+* [Vince Castellano](surye.github.io)
+* [Phillip Lopo](xlopo.github.io)
+
