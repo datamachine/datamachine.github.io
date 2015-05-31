@@ -5,6 +5,7 @@ layout: default
 <div class="home">
 
   <div class="posts">
+    {% include about.html %}
     {% for post in paginator.posts %}
       <div class="post">
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
