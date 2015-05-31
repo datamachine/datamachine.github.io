@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 * [Vince Castellano](surye.github.io)
-    * Telegram: @Surye
+    * Telegram: [@Surye](https://telegram.me/Surye)
 * [Phillip Lopo](xlopo.github.io)
-    * Telegram: @Tyrannosaurus
+    * Telegram: [@Tyrannosaurus](https://https://telegram.me/Tyrannosaurus)
 
