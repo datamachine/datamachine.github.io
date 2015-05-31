@@ -4,7 +4,7 @@ email:       philliplopo@gmail.com
 author:      Phillip Lopo
 description: "Datamachine"
 baseurl:     ""
-url:         "datamachine.net"
+url:         "http://datamachine.net"
 
 # Google analytics
 google_analytics:
