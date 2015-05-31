@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+Our core developers:
+
 * [Vince Castellano](surye.github.io)
     * Telegram: [@Surye](https://telegram.me/Surye)
 * [Phillip Lopo](xlopo.github.io)
